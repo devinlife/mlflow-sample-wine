@@ -1,0 +1,7 @@
+artifact_location: file:///Users/hojungchoi/dev_workshop/mlflow/examples/sklearn_elasticnet_wine/mlruns/0
+creation_time: 1677417788273
+experiment_id: '0'
+last_update_time: 1677419799347
+lifecycle_stage: active
+name: wine
+tags: {}

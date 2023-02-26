@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hojungchoi/dev_workshop/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/939481c9d1704cc8b501e78b77eb83e1/artifacts
+end_time: 1677417951125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 939481c9d1704cc8b501e78b77eb83e1
+run_name: upset-crow-74
+run_uuid: 939481c9d1704cc8b501e78b77eb83e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677417948444
+status: 3
+tags: []
+user_id: hojungchoi

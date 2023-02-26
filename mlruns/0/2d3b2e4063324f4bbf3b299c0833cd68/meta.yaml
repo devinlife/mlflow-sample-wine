@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hojungchoi/dev_workshop/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/2d3b2e4063324f4bbf3b299c0833cd68/artifacts
+end_time: 1677418094988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d3b2e4063324f4bbf3b299c0833cd68
+run_name: brawny-pug-411
+run_uuid: 2d3b2e4063324f4bbf3b299c0833cd68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677418092251
+status: 3
+tags: []
+user_id: hojungchoi

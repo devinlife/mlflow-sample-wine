@@ -1,0 +1,12 @@
+creation_timestamp: 1677419918808
+current_stage: Production
+description: ''
+last_updated_timestamp: 1677419989050
+name: wine quality
+run_id: 2d3b2e4063324f4bbf3b299c0833cd68
+run_link: ''
+source: file:///Users/hojungchoi/dev_workshop/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/2d3b2e4063324f4bbf3b299c0833cd68/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hojungchoi/dev_workshop/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/b6e85e2b80214d0d8482c031d0fef716/artifacts
+end_time: 1677417934853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6e85e2b80214d0d8482c031d0fef716
+run_name: traveling-ape-753
+run_uuid: b6e85e2b80214d0d8482c031d0fef716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677417932213
+status: 3
+tags: []
+user_id: hojungchoi

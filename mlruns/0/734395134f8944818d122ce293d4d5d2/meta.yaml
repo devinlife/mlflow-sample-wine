@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hojungchoi/dev_workshop/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/734395134f8944818d122ce293d4d5d2/artifacts
+end_time: 1677417982019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 734395134f8944818d122ce293d4d5d2
+run_name: trusting-skunk-319
+run_uuid: 734395134f8944818d122ce293d4d5d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677417979424
+status: 3
+tags: []
+user_id: hojungchoi
